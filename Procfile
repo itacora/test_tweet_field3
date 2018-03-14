@@ -1,1 +1,1 @@
-web: gunicorn gettingstarted.wsgi
+clock: python timeclock.py
